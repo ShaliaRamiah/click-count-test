@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    background: #fff5d7;
+    justify-content: center;
+    font-family: 'Poppins',sans-serif;
+}
+
+
+#myButton {
+    width: 12%;
+    height: 30px;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 15px;
+    font-family: 'Poppins',sans-serif;
+    background-color: #ff5e6c;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
